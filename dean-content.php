@@ -44,7 +44,7 @@
   </div>
   <div class="card border-danger">
             <a href="byor_all_current_students.php" target="blank"> 
-          <button class="large-btn img-fluid" id="two">Student Characteristics <br>BYOR</button></a>
+          <button class="large-btn img-fluid" id="one">Student Characteristics <br>BYOR</button></a>
             <!-- <img src="imgs/button-cards-02.jpg"alt="Generic placeholder image" width="100%"></a> -->
     <div class="card-body text-center">
       <p class="card-text">Look at breakdowns in student enrollment by various demographic groups (e.g., race, gender).</p>
@@ -65,7 +65,7 @@
     <div class="card-deck mb-5">
   <div class="card border-danger">
        <a href="retention_rate.php">
-        <button class="large-btn img-fluid" id="three">Retention <br>Rates<br> Standard <br></button></a>
+        <button class="large-btn img-fluid" id="two">Retention <br>Rates<br> Standard <br></button></a>
              <!-- <img src="imgs/button-cards-03.jpg" alt="Generic placeholder image" width="100%"></a> -->
     <div class="card-body text-center">
       <p class="card-text">Learn more about the proportion of students who persist into their second year (filter to your college or department!).</p>
@@ -74,7 +74,7 @@
 
   <div class="card border-danger">
      <a href="retention_rate_byor.php">
-      <button class="large-btn img-fluid" id="four">Retention <br>Rates<br> BYOR <br></button></a>
+      <button class="large-btn img-fluid" id="two">Retention <br>Rates<br> BYOR <br></button></a>
              <!-- <img src="imgs/button-cards-04.jpg" alt="Generic placeholder image" width="100%"></a> -->
     <div class="card-body text-center">
       <p class="card-text"> Examine how persistence/retention rates vary by demographic groups.</p>
@@ -82,7 +82,7 @@
   </div>
   <div class="card border-danger">
        <a href="graduation-rates.php ">
-              <button class="large-btn img-fluid" id="five">Graduation<br>
+              <button class="large-btn img-fluid" id="two">Graduation<br>
 Rates <br>Standard <br></button></a>
            <!-- <img src="imgs/button-cards-05.jpg" alt="Generic placeholder image" width="100%"></a> -->
     <div class="card-body text-center">
@@ -91,7 +91,7 @@ Rates <br>Standard <br></button></a>
   </div>
   <div class="card border-danger">
        <a href="graduation_rates_byor.php">
-          <button class="large-btn img-fluid" id="five">Graduation<br>
+          <button class="large-btn img-fluid" id="two">Graduation<br>
 Rates <br>BYOR<br></button></a>
            <!-- <img src="imgs/button-cards-06.jpg" alt="Generic placeholder image" width="100%"></a> -->
     <div class="card-body text-center">
@@ -109,7 +109,7 @@ All faculty, staff, and administrators also have access to dashboards via their 
     <div class="card-deck mx-auto mb-5">
   <div class="card border-danger  mr-5">
                     <a href="https://counts.csun.edu/#/site/IR/views/CoursesNewStudentsStruggleWith/Freshmen1stTerm">
-          <button class="large-btn img-fluid" id="five"> Classes<br> FTF Struggle <br>With</button></a>
+          <button class="large-btn img-fluid" id="three"> Classes<br> FTF Struggle <br>With</button></a>
     <div class="card-body text-center">
       <p class="card-text">Learn about first-year courses that account for 80% of the failing grades freshmen receive in their first year.</p>
     </div>
@@ -117,21 +117,21 @@ All faculty, staff, and administrators also have access to dashboards via their 
  
   <div class="card border-danger mr-5">
      <a href="https://counts.csun.edu/t/IR/views/CSUN_Course_Impact/CourseImpact?:origin=card_share_link&:embed=n">
-                 <button class="large-btn img-fluid" id="five"> Course<br> Impact </button></a>
+                 <button class="large-btn img-fluid" id="three"> Course<br> Impact </button></a>
     <div class="card-body text-center">
       <p class="card-text"> Examine retention rates by various demographic groups.</p>
     </div>
   </div>
   <div class="card mr-5 border-danger">
        <a href="https://counts.csun.edu/t/IR/views/CreditMomentum/WhoAreMomentumStudents?:origin=card_share_link&:embed=n ">
-            <button class="large-btn img-fluid" id="five"> Credit<br> Momentum </button></a>
+            <button class="large-btn img-fluid" id="three"> Credit<br> Momentum </button></a>
     <div class="card-body text-center">
       <p class="card-text">  Look at how credit momentum (enrolling in 15 or more units in the first semester) impacts student success.</p>
     </div>
   </div>
    <div class="card border-danger ">
      <a href="https://counts.csun.edu/#/site/IR/views/CoursePerformanceTracker_16288956841430/CourseOutcomeTracker">
-                   <button class="large-btn img-fluid" id="five"> Course<br> Outcome<br>Tracker </button></a>
+                   <button class="large-btn img-fluid" id="three"> Course<br> Outcome<br>Tracker </button></a>
     <div class="card-body text-center">
       <p class="card-text">  Explore longitudinal trends in DFU rates in departments and courses in your college.
 </p>

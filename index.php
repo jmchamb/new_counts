@@ -975,4 +975,5 @@ if ((navigator.userAgent.match(/iPhone/i)) || (navigator.userAgent.match(/iPod/i
 
 <!-- Bottom Links -->
 <?php include('inc/bottom_links.php'); ?>
+<p>&nbsp;</p>
 <?php include('inc/footer.php'); ?>
