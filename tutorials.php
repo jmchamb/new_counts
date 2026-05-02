@@ -251,7 +251,7 @@
               <button class="btn btn-link btn-block text-left btn-wrap-text overflown-visible" type="button" data-toggle="collapse" data-target="#collapse8" aria-expanded="true" aria-controls="collapse8" style="font-size: min(4vw, 18px);">
                 How do I find the number of new students that are Full Time Equivalent Students/FTES?  
               </button>
-              <p class="text-left ml-4" style="font-size: min(4vw, 14px);"> (definition here: <a href="ir-glossary.php#F"  target="blank" style="color: #000;">Full Time Equivalent Students/FTES)</a></p> 
+              <p class="text-left ml-4" style="font-size: min(4vw, 14px);"> (definition here: <a href="ir-glossary.php#FTEF"  target="blank" style="color: #000;">Full Time Equivalent Students/FTES)</a></p> 
              </p>
           </div>
 
@@ -550,7 +550,7 @@
           <div id="collapse19" class="collapse" aria-labelledby="heading19" data-parent="#faq_section">
             <div class="card-body ml-4">
               <p class="faq_answer text-left" style="font-size: min(4vw, 16px);">
-                The chart at the top of the dashboard will show how many days until census for the current semester. For semesters in the past, the census date is the last day shown on the table if you scroll all the way the right. This dashboard is helpful to see the progress of full time equivalent students/FTES (definition here: <a href="ir-glossary.php#F" target="blank" >Full Time Equivalent Students/FTES</a>) registering for classes. View the dashboards in the Enrolled Student Characteristics section. 
+                The chart at the top of the dashboard will show how many days until census for the current semester. For semesters in the past, the census date is the last day shown on the table if you scroll all the way the right. This dashboard is helpful to see the progress of full time equivalent students/FTES (definition here: <a href="ir-glossary.php#FTEF" target="blank" >Full Time Equivalent Students/FTES</a>) registering for classes. View the dashboards in the Enrolled Student Characteristics section. 
               </p>
 
               <p class="faq_answer text-left" style="font-size: min(4vw, 16px);">
@@ -608,7 +608,7 @@
               <button class="btn btn-link btn-block text-left btn-wrap-text overflown-visible" type="button" data-toggle="collapse" data-target="#collapse22" aria-expanded="true" aria-controls="collapse22" style="font-size: min(4vw, 18px);">
                 How do I do a year-by-year comparison on the number of Full Time Equivalent Students/FTES that have registered for a specific course?  
               </button>
-              <p class="text-left ml-4" style="font-size: min(4vw, 14px);"> (definition here: <a href="ir-glossary.php#F"   target="blank" style="color: #000;">Full Time Equivalent Students/FTES)</a></p> 
+              <p class="text-left ml-4" style="font-size: min(4vw, 14px);"> (definition here: <a href="ir-glossary.php#FTEF"   target="blank" style="color: #000;">Full Time Equivalent Students/FTES)</a></p> 
              </p>
           </div>
 

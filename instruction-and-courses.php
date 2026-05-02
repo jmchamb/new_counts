@@ -131,7 +131,7 @@ function toggleAllAccordions() {
 				  <p class="faq_answer text-left" style="font-size: min(4vw, 16px);">
 					What is the ratio of students to faculty?<br><br>
 					Since students can be enrolled and faculty can be teaching full- or part-time. Ratios are calculated for full-time equivalent students (FTES) and full-time equivalent faculty (FTEF). 
-					For descriptions of how FTES and FTEF are calculated, visit the <a href="ir-glossary.php#F" >IR Data Glossary</a>.<br><br>
+					For descriptions of how FTES and FTEF are calculated, visit the <a href="ir-glossary.php#FTEF" >IR Data Glossary</a>.<br><br>
 					Use the Student-Faculty Ratios by Course Level dashboard to explore ratios for lower-division, upper-division, and graduate courses for the university, a college, or a department.
 					The ratios being calculated in this dashboard reflect data going down to individual courses.<br>
 					<a href="course_level.php" >https://www.csun.edu/counts/course_level.php</a>

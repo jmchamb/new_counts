@@ -27,7 +27,7 @@
 	</div>
   
  <!-- INTRO TO FACULTY -->  <div class="container" id="space-box">
-    <div class="container-lg"> <p><h4 id="main">These are some dashboards that we have heard that Deans and Associate Deans find useful for their college work.  Please help us to curate this page by sending us your feedback on the usefulness of these dashboards and/or feedback on other dashboards that you find useful and why (email your feedback to <strong><a href="mailtoo:ir@csun.edu" class="text-danger">ir@csun.edu</a></strong>)</h4></p>
+    <div class="container-lg"> <p><h4 id="main">These are some dashboards that we have heard that Deans and Associate Deans find useful for their college work.  Please help us to curate this page by sending us your feedback on the usefulness of these dashboards and/or feedback on other dashboards that you find useful and why (email your feedback to <strong><a href="mailto:ir@csun.edu" class="text-danger">ir@csun.edu</a></strong>)</h4></p>
 
    <!-- Start of Second Row of Buttons -->
        <div class="redh mt-3 mb-4"> <h2 class="mt-4 redh"><strong>Who Are your Students?</strong></h3></div>

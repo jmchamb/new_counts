@@ -81,7 +81,7 @@ function toggleAllAccordions() {
 				  <p class="faq_answer text-left" style="font-size: min(4vw, 16px);">
 					See the number of faculty for the university, college or department.<br><br>
 					The Data Selector drop-down menu allows users to toggle between <b>headcount</b> and <b>full-time equivalent</b> faculty 
-					(based on the number of units taught, see the <a href="ir-glossary.php#F">IR Data Glossary</a> for a definition and details).<br><br>
+					(based on the number of units taught, see the <a href="ir-glossary.php#FTEF">IR Data Glossary</a> for a definition and details).<br><br>
 					
 					There are two versions of each of these dashboards:<br>
 					&nbsp;&#8226;&nbsp;<b>Trends over Time</b> versions allow you to explore faculty data by filtering to a specific set of faculty, for example, by college or department, by ethnicity, age, time base employment (for Lecturers) and more.<br>
@@ -122,7 +122,7 @@ function toggleAllAccordions() {
 			  <div id="collapse2" class="accordion-collapse collapse" aria-labelledby="heading2" data-parent="#faq_section">
 				<div class="card-body ml-4">
 				  <p class="faq_answer text-left" style="font-size: min(4vw, 16px);">
-					Explore the ratio of students to faculty for the university or departments. These are calculated based on full-time equivalents. For details and definitions, visit the <a href="ir-glossary.php#F">IR Data Glossary</a> entries for full-time equivalent students (FTES) and full-time equivalent faculty (FTEF).<br><br>
+					Explore the ratio of students to faculty for the university or departments. These are calculated based on full-time equivalents. For details and definitions, visit the <a href="ir-glossary.php#FTEF">IR Data Glossary</a> entries for full-time equivalent students (FTES) and full-time equivalent faculty (FTEF).<br><br>
 					&#8627;Display ratios for the <b>University</b><br>&nbsp;&nbsp;
 					<a href="faculty_employment_status_university.php">https://www.csun.edu/counts/faculty_employment_status_university.php</a><br>
 					&#8627;Display ratios for <b>Departments (and Colleges)</b><br>&nbsp;&nbsp;

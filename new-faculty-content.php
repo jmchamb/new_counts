@@ -23,7 +23,7 @@
  <!-- INTRO TO FACULTY  <div class="container" id="space-box"> -->
     <div class="container-lg"> <p><h4 id="main">Welcome to CSUN!  You may have heard about the diversity of our student body, our dedication to equitable outcomes, our work on student success.  You may want to learn more about what exactly this looks like, in terms of the DATA.  If so, you’re in the right place!  CSUN Counts houses a treasure trove of publicly available data in dashboards (as well as other dashboards available only to CSUN faculty and staff, see below).
       <br><br>
-    To get you started, here are some dashboards that will help you to better understand who our students are and how we’re doing in terms of student success metrics such as retention and graduation rates.  Please help us to curate this page by sending us your feedback on the usefulness of these dashboards and/or feedback on other dashboards that you find useful and why (email your feedback to <strong><a href="mailtoo:ir@csun.edu" class="text-danger">ir@csun.edu</a></strong>)</h4></p>
+    To get you started, here are some dashboards that will help you to better understand who our students are and how we’re doing in terms of student success metrics such as retention and graduation rates.  Please help us to curate this page by sending us your feedback on the usefulness of these dashboards and/or feedback on other dashboards that you find useful and why (email your feedback to <strong><a href="mailto:ir@csun.edu" class="text-danger">ir@csun.edu</a></strong>)</h4></p>
 
    <!-- Start of Second Row of Buttons -->
      <div class="bg-white mt-5 mb-5">  <div class="redh mt-3 mb-4"> <h2 class="mt-4 redh"><strong>Who Are Our Students?</strong></h3></div>
