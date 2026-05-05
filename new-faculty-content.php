@@ -101,31 +101,30 @@ Rates <br>BYOR<br></button></a>
     <h5 class="ml-4 mt-5 mb-5 text-light"><strong>**TIP:  if you find a dashboard that you use often, click on the star to favorite it and then you can go 
     straight to Favorites (left menu) to find it the next time you log on!**</strong></h5></div>
 
-      <div class="card-deck mb-5">
-  <div class="card border-danger">
+      <div class="card-deck mx-auto col-xl-10">
+  <div class="card mr-5 border-danger">
       <a href=" https://counts.csun.edu/t/IR/views/CSUN_Course_Impact/CourseImpact?:origin=card_share_link&:embed=n ">
-          <button class="large-btn img-fluid" id="three">Course<br>
-Impact<br></button></a>
+          <button class="large-btn img-fluid" id="three">Course<br>Impact</button></a>
              <!-- <img src="imgs/button-cards-07.jpg" alt="Generic placeholder image" width="100%"></a> -->
     <div class="card-body text-center">
       <p class="card-text">Learn how course grades are correlated with student retention and graduation.</p>
     </div>
   </div>
-  <div class="card border-danger">
+  <div class="card mr-5 border-danger">
     <a href="https://counts.csun.edu/t/IR/views/FreshmanMajorMigration/MajorMigration?:origin=card_share_link&:embed=n">
-        <button class="large-btn img-fluid" id="three">Major<br>Migration<br>Freshman</button></a>
+        <button class="large-btn img-fluid" id="three">Major Migration<br>Freshman</button></a>
     <div class="card-body text-center">
       <p class="card-text">Take a look at where Freshman students who start in your major end up later in their college careers.</p>
     </div>
   </div>  
-  <div class="card border-danger">
+  <div class="card mr-5 border-danger">
      <a href="https://counts.csun.edu/#/site/IR/views/CreditMomentum/WhoAreMomentumStudents">
-                <button class="large-btn img-fluid" id="three">Credit<br>Momentum<br></button></a>
+                <button class="large-btn img-fluid" id="three">Credit<br>Momentum</button></a>
     <div class="card-body text-center">
       <p class="card-text">Learn about credit momentum (enrolling in 15 or more units in the first semester) and how it impacts student success.</p>
     </div>
   </div>
-  <div>&nbsp;</div>
+</div>
 
 <div class="bg-dark mt-5 mb-5 rounded">
 <h4 class="ml-4 mr-4 mt-5 mb-5 text-light">
