@@ -1,0 +1,1 @@
+<meta http-equiv="refresh" content="0; url=https://ide.csun.edu:8443/openweb/irdatareqindex.html">
