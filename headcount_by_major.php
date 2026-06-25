@@ -5,6 +5,11 @@
 <h1 class="page-title">Headcount by Major</h1>
 <center>
 
+<!-- Bread Crumbs -->
+<div align="left" id="main">
+	&nbsp;&nbsp;<a href="./" style="color:black;font-size:18pt">CSUN Counts</a><font size="5">&nbsp;>&nbsp;</font><a href="registration-reports.php" style="color:black;font-size:18pt">Registration Reports</a><font size="5">&nbsp;>&nbsp;Headcount by Level</font><br><br>
+</div>
+
 <script type='text/javascript' src='https://counts.csun.edu/javascripts/api/viz_v1.js'></script>
 <div class='tableauPlaceholder' style='width: 1400px; height: 804px;'>
 	<object class='tableauViz' width='1400' height='804' style='display:none;'>
