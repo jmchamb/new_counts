@@ -7,7 +7,7 @@
 
 <!-- Bread Crumbs -->
 <div align="left" id="main">
-	&nbsp;&nbsp;<a href="./" style="color:black;font-size:18pt">CSUN Counts</a><font size="5">&nbsp;>&nbsp;</font><a href="registration-reports.php" style="color:black;font-size:18pt">Registration Reports</a><font size="5">&nbsp;>&nbsp;Headcount by Level</font><br><br>
+	&nbsp;&nbsp;<a href="./" style="color:black;font-size:18pt">CSUN Counts</a><font size="5">&nbsp;>&nbsp;</font><a href="registration-reports.php" style="color:black;font-size:18pt">Registration Reports</a><font size="5">&nbsp;>&nbsp;Headcount by Major</font><br><br>
 </div>
 
 <script type='text/javascript' src='https://counts.csun.edu/javascripts/api/viz_v1.js'></script>
