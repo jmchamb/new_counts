@@ -36,13 +36,23 @@
         </a>
       </div>
 	<div class="col-6 col-md-4">
-        <a href="imgs/001.pdf" target="blank"> 
-          <button class="large-btn img-fluid rounded" id="pdf-btn">Creating a Custom View <br>for IR Dashboards </button>
+        <a href="imgs/Creating a Custom View for IR Dashboards New Counts.pdf" target="blank"> 
+          <button class="large-btn img-fluid rounded" id="pdf-btn">Creating a Custom View for <br>IR Dashboards </button>
         </a>
       </div>
       <div class="col-6 col-md-4">
      <a href="imgs/002.pdf" target="blank">
           <button class="large-btn img-fluid rounded" id="pdf-btn">Expanding Dashboards to <br>the College, Department, <br>and Program Level </button>
+        </a>
+      </div>
+      <div class="col-6 col-md-4">
+     <a href="imgs/Downloading Data from IR Dashboards.pdf" target="blank">
+          <button class="large-btn img-fluid rounded" id="pdf-btn">Downloading Data from an <br>IR Dashboard </button>
+        </a>
+      </div>
+      <div class="col-6 col-md-4">
+     <a href="imgs/Sharing for IR Dashboards New Counts.pdf" target="blank">
+          <button class="large-btn img-fluid rounded" id="pdf-btn">Sharing a View of an <br>IR Dashboard </button>
         </a>
       </div>
 	</div>
