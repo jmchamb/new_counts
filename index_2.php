@@ -55,7 +55,7 @@
      <a href="roadmap.php" target="_blank">
             <img src="imgs/road-ahead.png" width="100%" alt="Scale with Arrow Pointing at 90%"></a>
     <div class="card-body text-center">
-      <p class="card-text">Landing page for KPIs by Strategic Direction<br>(Opens in a new window)</p>
+      <p class="card-text">Landing page for Key Performance Indicators (KPIs) by Strategic Direction<br>(Opens in a new window)</p>
     </div>
   </div>
 </div>
