@@ -658,6 +658,11 @@ function myFunction_registration() {
 		<b>Summer Daily Registration Reports</b>
 			<a href="summer_daily_registration_state.php">&nbsp;&nbsp;&nbsp;&#8627;Daily Registration</a>
 			<a href="summer_ftes_by_department_state.php">&nbsp;&nbsp;&nbsp;&#8627;FTES by Department</a>
+		<b>Multi-Year Registration Reports</b>
+			<a href="multi_year_student_headcount_by_major.php">&nbsp;&nbsp;&nbsp;&#8627;All Student Headcount by Major</a>
+			<a href="multi_year_new_student_headcount_by_major.php">&nbsp;&nbsp;&nbsp;&#8627;New Student Headcount <br>&nbsp;&nbsp;&nbsp;by Major</a>
+			<a href="multi_year_ftes_by_department.php">&nbsp;&nbsp;&nbsp;&#8627;FTES by Department</a>
+			<a href="multi_year_ftes_by_course.php">&nbsp;&nbsp;&nbsp;&#8627;FTES by Course</a>
 		<b>Demand Estimation</b>
 			<a href="multi_year_student_headcount_by_major.php">&nbsp;&nbsp;&nbsp;&#8627;Multi-Year Headcount</a>
 			<a href="course_capacity.php">&nbsp;&nbsp;&nbsp;&#8627;Course Capacity</a>
