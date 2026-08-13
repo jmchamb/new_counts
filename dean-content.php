@@ -30,13 +30,13 @@
     <div class="container-lg"> <p><h4 id="main">These are some dashboards that we have heard that Deans and Associate Deans find useful for their college work.  Please help us to curate this page by sending us your feedback on the usefulness of these dashboards and/or feedback on other dashboards that you find useful and why (email your feedback to <strong><a href="mailto:ir@csun.edu" class="text-danger">ir@csun.edu</a></strong>)</h4></p>
 
    <!-- Start of Second Row of Buttons -->
-       <div class="redh mt-3 mb-4"> <h2 class="mt-4 redh"><strong>Who Are your Students?</strong></h3></div>
+       <div class="redh mt-3 mb-4"> <h2 class="mt-4 redh"><strong>Who are your students?</strong></h3></div>
 <div class="card-deck">
   <div class="card border-0" width="10%">
   </div>
   <div class="card mr-5 border-danger">
           <a href="all_current_students.php" target="blank"> 
-          <button class="large-btn img-fluid" id="one">Student Characteristics Standard </button></a>
+          <button class="large-btn img-fluid" id="one">Student Characteristics <br>Trends Over Time </button></a>
             <!-- <img src="imgs/button-cards-01.jpg" alt="Generic placeholder image" width="100%"id=c1></a> -->
     <div class="card-body text-center">
       <p class="card-text">Take a look at longitudinal trends in enrollment by various demographic groups, majors, or class level.</p>
@@ -44,7 +44,7 @@
   </div>
   <div class="card border-danger">
             <a href="byor_all_current_students.php" target="blank"> 
-          <button class="large-btn img-fluid" id="one">Student Characteristics <br>BYOR</button></a>
+          <button class="large-btn img-fluid" id="one">Student Characteristics <br>Build Your Own</button></a>
             <!-- <img src="imgs/button-cards-02.jpg"alt="Generic placeholder image" width="100%"></a> -->
     <div class="card-body text-center">
       <p class="card-text">Look at breakdowns in student enrollment by various demographic groups (e.g., race, gender).</p>
@@ -65,7 +65,7 @@
     <div class="card-deck mb-5">
   <div class="card border-danger">
        <a href="retention_rate.php">
-        <button class="large-btn img-fluid" id="two">Retention <br>Rates<br> Standard <br></button></a>
+        <button class="large-btn img-fluid" id="two">Retention Rates<br> Trends Over Time <br></button></a>
              <!-- <img src="imgs/button-cards-03.jpg" alt="Generic placeholder image" width="100%"></a> -->
     <div class="card-body text-center">
       <p class="card-text">Learn more about the proportion of students who persist into their second year (filter to your college or department!).</p>
@@ -74,7 +74,7 @@
 
   <div class="card border-danger">
      <a href="retention_rate_byor.php">
-      <button class="large-btn img-fluid" id="two">Retention <br>Rates<br> BYOR <br></button></a>
+      <button class="large-btn img-fluid" id="two">Retention Rates<br> Build Your Own <br></button></a>
              <!-- <img src="imgs/button-cards-04.jpg" alt="Generic placeholder image" width="100%"></a> -->
     <div class="card-body text-center">
       <p class="card-text"> Examine how persistence/retention rates vary by demographic groups.</p>
@@ -82,8 +82,7 @@
   </div>
   <div class="card border-danger">
        <a href="graduation-rates.php ">
-              <button class="large-btn img-fluid" id="two">Graduation<br>
-Rates <br>Standard <br></button></a>
+              <button class="large-btn img-fluid" id="two">Graduation Rates <br>Trends Over Time <br></button></a>
            <!-- <img src="imgs/button-cards-05.jpg" alt="Generic placeholder image" width="100%"></a> -->
     <div class="card-body text-center">
       <p class="card-text">Learn more about our graduation rates.</p>
@@ -91,8 +90,7 @@ Rates <br>Standard <br></button></a>
   </div>
   <div class="card border-danger">
        <a href="graduation_rates_byor.php">
-          <button class="large-btn img-fluid" id="two">Graduation<br>
-Rates <br>BYOR<br></button></a>
+          <button class="large-btn img-fluid" id="two">Graduation Rates <br> Build Your Own<br></button></a>
            <!-- <img src="imgs/button-cards-06.jpg" alt="Generic placeholder image" width="100%"></a> -->
     <div class="card-body text-center">
       <p class="card-text">Take a look at how graduation rates vary by demographic groups  </p>
@@ -109,7 +107,7 @@ All faculty, staff, and administrators also have access to dashboards via their 
     <div class="card-deck mx-auto mb-5">
   <div class="card border-danger  mr-5">
                     <a href="https://counts.csun.edu/#/site/IR/views/CoursesNewStudentsStruggleWith/Freshmen1stTerm">
-          <button class="large-btn img-fluid" id="three"> Classes<br> FTF Struggle <br>With</button></a>
+          <button class="large-btn img-fluid" id="three"> Classes <br>New Students <br>Struggle With</button></a>
     <div class="card-body text-center">
       <p class="card-text">Learn about first-year courses that account for 80% of the failing grades freshmen receive in their first year.</p>
     </div>
