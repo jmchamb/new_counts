@@ -22,7 +22,7 @@
 	<br>
  <h6 id="main" align="left"><strong>CSUN LOADs (Learning Outcomes Assessment Dashboard)</strong> displays the level at which students achieve the institutional learning outcomes (ILOs). <br>All ILOs are aligned to department program learning outcomes 
  				and are used to assess student achievement of the outcome within and across courses. 
-				<br><a href="https://www.csun.edu/assessment-and-program-review/academic-assessment/csun-loads" style="color:black;text-decoration: underline;" target="_blank">Learn more about CSUN LOADs</a></h6>
+				<br><a href="https://www.csun.edu/assessment-and-program-review/academic-assessment/our-assessment-philosophy" style="color:black;text-decoration: underline;" target="_blank">Learn more about CSUN Academic Assessment</a></h6>
 <br>
 <script type='module' src='https://counts.csun.edu/javascripts/api/tableau.embedding.3.latest.min.js'></script>
 
