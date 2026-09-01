@@ -664,7 +664,6 @@ function myFunction_registration() {
 			<a href="multi_year_ftes_by_department.php">&nbsp;&nbsp;&nbsp;&#8627;FTES by Department</a>
 			<a href="multi_year_ftes_by_course.php">&nbsp;&nbsp;&nbsp;&#8627;FTES by Course</a>
 		<b>Demand Estimation</b>
-			<a href="multi_year_student_headcount_by_major.php">&nbsp;&nbsp;&nbsp;&#8627;Multi-Year Headcount</a>
 			<a href="course_capacity.php">&nbsp;&nbsp;&nbsp;&#8627;Course Capacity</a>
 	  </div>
      <!--<a href="registration-reports.php">
