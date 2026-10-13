@@ -72,6 +72,26 @@ function toggleAllAccordions() {
 			  <div class="card-header" id="heading1">
 				<p class="faq_question mb-0">
 				  <button class="btn btn-link btn-block text-left btn-wrap-text overflown-visible" type="button" data-toggle="collapse" data-target="#collapse1" aria-expanded="true" aria-controls="collapse" style="font-size: min(4vw, 18px);">
+					Four Levers for Enrollment 
+				  </button>
+				</p>
+			  </div>
+
+			  <div id="collapse1" class="accordion-collapse collapse" aria-labelledby="heading1" data-parent="#faq_section">
+				<div class="card-body ml-4">
+				  <p class="faq_answer text-left" style="font-size: min(4vw, 16px);">
+					Explore four factors associated with enrollment using this new dashboard that brings together data from existing dashboards on applications, yield, retention, and average unit load. <br><br>
+					&#8627;<b>Four Levers for Enrollment</b><br>&nbsp;&nbsp;
+					<a href="four_levers_for_enrollment.php">https://www.csun.edu/counts/four_levers_for_enrollment.php</a><br>
+			  	</p>
+				</div>
+			  </div>
+		  </div>
+		  <!-- R2 -->
+		  <div class="card">
+			  <div class="card-header" id="heading1">
+				<p class="faq_question mb-0">
+				  <button class="btn btn-link btn-block text-left btn-wrap-text overflown-visible" type="button" data-toggle="collapse" data-target="#collapse1" aria-expanded="true" aria-controls="collapse" style="font-size: min(4vw, 18px);">
 					Application to Enrollment 
 				  </button>
 				</p>
@@ -90,7 +110,7 @@ function toggleAllAccordions() {
 				</div>
 			  </div>
 		  </div>
-		  <!-- R2 -->
+		  <!-- R3 -->
 		  <div class="card">
 			  <div class="card-header" id="heading2">
 				<p class="faq_question mb-0">
