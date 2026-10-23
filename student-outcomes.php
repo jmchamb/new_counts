@@ -159,8 +159,29 @@ function toggleAllAccordions() {
 			You can explore degrees awarded by:
 		</p>
 		<!-- Start of the accordion -->
+		 <!-- D1 -->
 		<div class="faq_accordion mx-auto" id="faq_section">
-		  <!-- D1 -->
+			<div class="card">
+			  <div class="card-header" id="heading4">
+				<p class="faq_question mb-0">
+				  <button class="btn btn-link btn-block text-left btn-wrap-text overflown-visible" type="button" data-toggle="collapse" data-target="#collapse4" aria-expanded="true" aria-controls="collapse" style="font-size: min(4vw, 18px);">
+					All Degrees  
+				  </button>
+				</p>
+			  </div>
+
+			  <div id="collapse4" class="accordion-collapse collapse" aria-labelledby="heading4" data-parent="#faq_section">
+				<div class="card-body ml-4">
+				  <p class="faq_answer text-left" style="font-size: min(4vw, 16px);">
+					&#8627;Trends Over Time<br>&nbsp;&nbsp;
+					<a href="all_degree_recipients.php" >https://www.csun.edu/counts/all_degree_recipients.php</a><br>
+					&#8627;Build Your Own<br>&nbsp;&nbsp;
+					<a href="byor_all_degree_recipients.php" >https://www.csun.edu/counts/byor_all_degree_recipients.php</a><br>
+				  </p>
+				</div>
+			  </div>
+		  </div>	
+		  <!-- D2 -->
 		  <div class="card">
 			  <div class="card-header" id="heading4">
 				<p class="faq_question mb-0">
@@ -181,7 +202,7 @@ function toggleAllAccordions() {
 				</div>
 			  </div>
 		  </div>
-		  <!-- D2 -->
+		  <!-- D3 -->
 		  <div class="card">
 			  <div class="card-header" id="heading5">
 				<p class="faq_question mb-0">
@@ -202,7 +223,7 @@ function toggleAllAccordions() {
 				</div>
 			  </div>
 		  </div>
-		  <!-- D3 -->
+		  <!-- D4 -->
 		  <div class="card">
 			  <div class="card-header" id="heading6">
 				<p class="faq_question mb-0">
@@ -223,7 +244,7 @@ function toggleAllAccordions() {
 				</div>
 			  </div>
 		  </div>
-		  <!-- D4 -->
+		  <!-- D5 -->
 		  <div class="card">
 			  <div class="card-header" id="heading7">
 				<p class="faq_question mb-0">
