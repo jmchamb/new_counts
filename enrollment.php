@@ -89,15 +89,15 @@ function toggleAllAccordions() {
 		  </div>
 		  <!-- R2 -->
 		  <div class="card">
-			  <div class="card-header" id="heading1">
+			  <div class="card-header" id="heading2">
 				<p class="faq_question mb-0">
-				  <button class="btn btn-link btn-block text-left btn-wrap-text overflown-visible" type="button" data-toggle="collapse" data-target="#collapse1" aria-expanded="true" aria-controls="collapse" style="font-size: min(4vw, 18px);">
+				  <button class="btn btn-link btn-block text-left btn-wrap-text overflown-visible" type="button" data-toggle="collapse" data-target="#collapse2" aria-expanded="true" aria-controls="collapse" style="font-size: min(4vw, 18px);">
 					Application to Enrollment 
 				  </button>
 				</p>
 			  </div>
 
-			  <div id="collapse1" class="accordion-collapse collapse" aria-labelledby="heading1" data-parent="#faq_section">
+			  <div id="collapse2" class="accordion-collapse collapse" aria-labelledby="heading2" data-parent="#faq_section">
 				<div class="card-body ml-4">
 				  <p class="faq_answer text-left" style="font-size: min(4vw, 16px);">
 					Explore who applies, is admitted, and enrolls at CSUN by admission term with the capacity to filter to specific colleges, programs, 
@@ -112,15 +112,15 @@ function toggleAllAccordions() {
 		  </div>
 		  <!-- R3 -->
 		  <div class="card">
-			  <div class="card-header" id="heading2">
+			  <div class="card-header" id="heading3">
 				<p class="faq_question mb-0">
-				  <button class="btn btn-link btn-block text-left btn-wrap-text overflown-visible" type="button" data-toggle="collapse" data-target="#collapse2" aria-expanded="true" aria-controls="collapse" style="font-size: min(4vw, 18px);">
+				  <button class="btn btn-link btn-block text-left btn-wrap-text overflown-visible" type="button" data-toggle="collapse" data-target="#collapse3" aria-expanded="true" aria-controls="collapse" style="font-size: min(4vw, 18px);">
 					Enrollment by Student Characteristics 
 				  </button>
 				</p>
 			  </div>
 
-			  <div id="collapse2" class="accordion-collapse collapse" aria-labelledby="heading2" data-parent="#faq_section">
+			  <div id="collapse3" class="accordion-collapse collapse" aria-labelledby="heading3" data-parent="#faq_section">
 				<div class="card-body ml-4">
 				  <p class="faq_answer text-left" style="font-size: min(4vw, 16px);">
 					There are two versions of each of these dashboards:<br>

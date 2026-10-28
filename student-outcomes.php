@@ -160,17 +160,17 @@ function toggleAllAccordions() {
 		</p>
 		<!-- Start of the accordion -->
 		 <!-- D1 -->
-		<div class="faq_accordion mx-auto" id="faq_section">
+		<div class="faq_accordion mx-auto" id="faq_section1">
 			<div class="card">
-			  <div class="card-header" id="heading10">
+			  <div class="card-header" id="heading4">
 				<p class="faq_question mb-0">
-				  <button class="btn btn-link btn-block text-left btn-wrap-text overflown-visible" type="button" data-toggle="collapse" data-target="#collapse10" aria-expanded="true" aria-controls="collapse" style="font-size: min(4vw, 18px);">
+				  <button class="btn btn-link btn-block text-left btn-wrap-text overflown-visible" type="button" data-toggle="collapse" data-target="#collapse4" aria-expanded="true" aria-controls="collapse" style="font-size: min(4vw, 18px);">
 					All Degrees  
 				  </button>
 				</p>
 			  </div>
 
-			  <div id="collapse10" class="accordion-collapse collapse" aria-labelledby="heading10" data-parent="#faq_section">
+			  <div id="collapse4" class="accordion-collapse collapse" aria-labelledby="heading4" data-parent="#faq_section1">
 				<div class="card-body ml-4">
 				  <p class="faq_answer text-left" style="font-size: min(4vw, 16px);">
 					&#8627;Trends Over Time<br>&nbsp;&nbsp;
@@ -183,15 +183,15 @@ function toggleAllAccordions() {
 		  </div>	
 		  <!-- D2 -->
 		  <div class="card">
-			  <div class="card-header" id="heading4">
+			  <div class="card-header" id="heading5">
 				<p class="faq_question mb-0">
-				  <button class="btn btn-link btn-block text-left btn-wrap-text overflown-visible" type="button" data-toggle="collapse" data-target="#collapse4" aria-expanded="true" aria-controls="collapse" style="font-size: min(4vw, 18px);">
+				  <button class="btn btn-link btn-block text-left btn-wrap-text overflown-visible" type="button" data-toggle="collapse" data-target="#collapse5" aria-expanded="true" aria-controls="collapse" style="font-size: min(4vw, 18px);">
 					Undergraduate Degrees  
 				  </button>
 				</p>
 			  </div>
 
-			  <div id="collapse4" class="accordion-collapse collapse" aria-labelledby="heading4" data-parent="#faq_section">
+			  <div id="collapse5" class="accordion-collapse collapse" aria-labelledby="heading5" data-parent="#faq_section1">
 				<div class="card-body ml-4">
 				  <p class="faq_answer text-left" style="font-size: min(4vw, 16px);">
 					&#8627;Trends Over Time<br>&nbsp;&nbsp;
@@ -204,15 +204,15 @@ function toggleAllAccordions() {
 		  </div>
 		  <!-- D3 -->
 		  <div class="card">
-			  <div class="card-header" id="heading5">
+			  <div class="card-header" id="heading6">
 				<p class="faq_question mb-0">
-				  <button class="btn btn-link btn-block text-left btn-wrap-text overflown-visible" type="button" data-toggle="collapse" data-target="#collapse5" aria-expanded="true" aria-controls="collapse" style="font-size: min(4vw, 18px);">
+				  <button class="btn btn-link btn-block text-left btn-wrap-text overflown-visible" type="button" data-toggle="collapse" data-target="#collapse6" aria-expanded="true" aria-controls="collapse" style="font-size: min(4vw, 18px);">
 					Masters Degrees  
 				  </button>
 				</p>
 			  </div>
 
-			  <div id="collapse5" class="accordion-collapse collapse" aria-labelledby="heading5" data-parent="#faq_section">
+			  <div id="collapse6" class="accordion-collapse collapse" aria-labelledby="heading6" data-parent="#faq_section1">
 				<div class="card-body ml-4">
 				  <p class="faq_answer text-left" style="font-size: min(4vw, 16px);">
 					&#8627;Trends Over Time<br>&nbsp;&nbsp;
@@ -225,15 +225,15 @@ function toggleAllAccordions() {
 		  </div>
 		  <!-- D4 -->
 		  <div class="card">
-			  <div class="card-header" id="heading6">
+			  <div class="card-header" id="heading7">
 				<p class="faq_question mb-0">
-				  <button class="btn btn-link btn-block text-left btn-wrap-text overflown-visible" type="button" data-toggle="collapse" data-target="#collapse6" aria-expanded="true" aria-controls="collapse" style="font-size: min(4vw, 18px);">
+				  <button class="btn btn-link btn-block text-left btn-wrap-text overflown-visible" type="button" data-toggle="collapse" data-target="#collapse7" aria-expanded="true" aria-controls="collapse" style="font-size: min(4vw, 18px);">
 					Doctoral Degrees
 				  </button>
 				</p>
 			  </div>
 
-			  <div id="collapse6" class="accordion-collapse collapse" aria-labelledby="heading6" data-parent="#faq_section">
+			  <div id="collapse7" class="accordion-collapse collapse" aria-labelledby="heading7" data-parent="#faq_section1">
 				<div class="card-body ml-4">
 				  <p class="faq_answer text-left" style="font-size: min(4vw, 16px);">
 					&#8627;Trends Over Time<br>&nbsp;&nbsp;
@@ -246,15 +246,15 @@ function toggleAllAccordions() {
 		  </div>
 		  <!-- D5 -->
 		  <div class="card">
-			  <div class="card-header" id="heading7">
+			  <div class="card-header" id="heading8">
 				<p class="faq_question mb-0">
-				  <button class="btn btn-link btn-block text-left btn-wrap-text overflown-visible" type="button" data-toggle="collapse" data-target="#collapse7" aria-expanded="true" aria-controls="collapse" style="font-size: min(4vw, 18px);">
+				  <button class="btn btn-link btn-block text-left btn-wrap-text overflown-visible" type="button" data-toggle="collapse" data-target="#collapse8" aria-expanded="true" aria-controls="collapse" style="font-size: min(4vw, 18px);">
 					Minors Earned 
 				  </button>
 				</p>
 			  </div>
 
-			  <div id="collapse7" class="accordion-collapse collapse" aria-labelledby="heading7" data-parent="#faq_section">
+			  <div id="collapse8" class="accordion-collapse collapse" aria-labelledby="heading8" data-parent="#faq_section1">
 				<div class="card-body ml-4">
 				  <p class="faq_answer text-left" style="font-size: min(4vw, 16px);">
 					&#8627;Trends Over Time<br>&nbsp;&nbsp;
@@ -274,18 +274,18 @@ function toggleAllAccordions() {
 		<h4 align="left"><b>Learning Outcomes</b></h4>
 		<p align="left">Are students achieving mastery of institutional learning outcomes in the courses they are taking at CSUN? As part of Academic Assessment and Program Review, CSUN has created a dashboard to explore students’ mastery.</p>
 		<!-- Start of the accordion -->
-		<div class="faq_accordion mx-auto" id="faq_section">
+		<div class="faq_accordion mx-auto" id="faq_section3">
 		  <!-- L1 -->
 		  <div class="card">
-			  <div class="card-header" id="heading8">
+			  <div class="card-header" id="heading9">
 				<p class="faq_question mb-0">
-				  <button class="btn btn-link btn-block text-left btn-wrap-text overflown-visible" type="button" data-toggle="collapse" data-target="#collapse8" aria-expanded="true" aria-controls="collapse" style="font-size: min(4vw, 18px);">
+				  <button class="btn btn-link btn-block text-left btn-wrap-text overflown-visible" type="button" data-toggle="collapse" data-target="#collapse9" aria-expanded="true" aria-controls="collapse" style="font-size: min(4vw, 18px);">
 					CSUN Learning Outcomes and Assessment Dashboard (LOADs)  
 				  </button>
 				</p>
 			  </div>
 
-			  <div id="collapse8" class="accordion-collapse collapse" aria-labelledby="heading8" data-parent="#faq_section">
+			  <div id="collapse9" class="accordion-collapse collapse" aria-labelledby="heading9" data-parent="#faq_section3">
 				<div class="card-body ml-4">
 				  <p class="faq_answer text-left" style="font-size: min(4vw, 16px);">
 					From this dashboard, you can explore students’ level of mastery (novice, proficient, advanced, mastery) in a variety of ways:<br>
@@ -307,18 +307,18 @@ function toggleAllAccordions() {
 		<h4 align="left"><b>Employment Outcomes</b></h4>
 		<p align="left">Explore CSUN graduates’ earnings and employment.</p>
 		<!-- Start of the accordion -->
-		<div class="faq_accordion mx-auto" id="faq_section">
+		<div class="faq_accordion mx-auto" id="faq_section4">
 		  <!-- C1 -->
 		  <div class="card">
-			  <div class="card-header" id="heading9">
+			  <div class="card-header" id="heading10">
 				<p class="faq_question mb-0">
-				  <button class="btn btn-link btn-block text-left btn-wrap-text overflown-visible" type="button" data-toggle="collapse" data-target="#collapse9" aria-expanded="true" aria-controls="collapse" style="font-size: min(4vw, 18px);">
+				  <button class="btn btn-link btn-block text-left btn-wrap-text overflown-visible" type="button" data-toggle="collapse" data-target="#collapse10" aria-expanded="true" aria-controls="collapse" style="font-size: min(4vw, 18px);">
 					Cal State Pays  
 				  </button>
 				</p>
 			  </div>
 
-			  <div id="collapse9" class="accordion-collapse collapse" aria-labelledby="heading9" data-parent="#faq_section">
+			  <div id="collapse10" class="accordion-collapse collapse" aria-labelledby="heading10" data-parent="#faq_section4">
 				<div class="card-body ml-4">
 				  <p class="faq_answer text-left" style="font-size: min(4vw, 16px);">
 					<a href="https://www.calstatepays.org/#/" target="blank">Calstatepays.org</a>, is an interactive website that tracks the longitudinal earnings and employment of approximately 670,000 students who entered any one of six L.A.-metro CSU campuses, 
