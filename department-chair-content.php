@@ -130,7 +130,7 @@ All faculty, staff, and administrators also have access to dashboards via their 
   </div>
   <div class="card mr-5 border-danger">
        <a href="https://counts.csun.edu/t/IR/views/Self_ServiceStudentListDashboard/Home_Page?:origin=card_share_link&:embed=n">
-                    <button class="large-btn img-fluid" id="four"> Student <br> List </button></a>
+                    <button class="large-btn img-fluid" id="four"> Self-Service<br> Student List </button></a>
     <div class="card-body text-center">
       <p class="card-text">  Pull a wide array of data about your own students.</p>
     </div>
