@@ -83,6 +83,35 @@
     </div>
   </div>
 
+  <!-- End of Third Row of Buttons -->
+  <div class="redh mt-3 mb-4"><h2 class="redh mt-6"><strong>How does enrollment look in your college?</strong></h3></div>
+  <div class="card-deck mb-5">
+  <div class="card border-danger">
+       <a href="fall_spring_registration.php">
+        <button class="large-btn img-fluid" id="three"> Fall/Spring Daily<br> Registration Reports <br></button></a>
+             <!-- <img src="imgs/button-cards-03.jpg" alt="Generic placeholder image" width="100%"></a> -->
+    <div class="card-body text-center">
+      <p class="card-text">Track daily registration at the university and college levels for headcount and FTES.</p>
+    </div>
+  </div>
+
+  <div class="card border-danger">
+     <a href="fall_spring_ftes_by_department.php">
+      <button class="large-btn img-fluid" id="three">Fall/Spring FTES<br> by Department <br></button></a>
+             <!-- <img src="imgs/button-cards-04.jpg" alt="Generic placeholder image" width="100%"></a> -->
+    <div class="card-body text-center">
+      <p class="card-text">Track daily registration at the department level.</p>
+    </div>
+  </div>
+  <div class="card border-danger">
+       <a href="apps_admits_and_enrolls.php">
+              <button class="large-btn img-fluid" id="three">Applications, Admissions<br> and Enrollment <br></button></a>
+           <!-- <img src="imgs/button-cards-05.jpg" alt="Generic placeholder image" width="100%"></a> -->
+    <div class="card-body text-center">
+      <p class="card-text">Track new students from application<br> to enrollment.</p>
+    </div>
+  </div>
+
   <div class="bg-dark text-light mt-5 mb-5 rounded"><p class="ml-4 mt-5 mb-4"><h4><strong> 
 All faculty, staff, and administrators also have access to dashboards via their CSUN credentials.  You can access these by clicking on <strong><a href="https://counts.csun.edu" class="text-danger">https://counts.csun.edu</a></strong>.  Choose COUNTS after logging in, and take look at some of these dashboards.</strong>
 <p></p></h4>
@@ -94,28 +123,28 @@ All faculty, staff, and administrators also have access to dashboards via their 
     <div class="card-deck mb-5">
   <div class="card mr-5 border-danger">
        <a href="https://counts.csun.edu/#/site/IR/views/CoursesNewStudentsStruggleWith/Freshmen1stTerm">
-                   <button class="large-btn img-fluid" id="three"> Classes <br>New Students <br>Struggle With </button></a>
+                   <button class="large-btn img-fluid" id="five"> Classes <br>New Students <br>Struggle With </button></a>
     <div class="card-body text-center">
       <p class="card-text">Learn about first-year courses that account for 80% of the failing grades freshmen receive in their first year.</p>
     </div>
   </div>
   <div class="card mr-5 border-danger">
      <a href="https://counts.csun.edu/t/IR/views/CSUN_Course_Impact/CourseImpact?:origin=card_share_link&:embed=n">
-                   <button class="large-btn img-fluid" id="three"> Course<br> Impact </button></a>
+                   <button class="large-btn img-fluid" id="five"> Course<br> Impact </button></a>
     <div class="card-body text-center">
       <p class="card-text">  Examine how course grades are correlated with student retention and graduation.</p>
     </div>
   </div>
   <div class="card mr-5 border-danger">
        <a href="https://counts.csun.edu/t/IR/views/CreditMomentum/WhoAreMomentumStudents?:origin=card_share_link&:embed=n ">
-                  <button class="large-btn img-fluid" id="three"> Credit<br> Momentum </button></a>
+                  <button class="large-btn img-fluid" id="five"> Credit<br> Momentum </button></a>
     <div class="card-body text-center">
       <p class="card-text">   Look at how credit momentum (enrolling in 15 or more units in the first semester) impacts student success.</p>
     </div>
   </div>
     <div class="card mr-5 border-danger">
      <a href="https://counts.csun.edu/#/site/IR/views/CoursePerformanceTracker_16288956841430/CourseOutcomeTracker">
-                   <button class="large-btn img-fluid" id="three"> Course<br> Outcome<br> Tracker </button></a>
+                   <button class="large-btn img-fluid" id="five"> Course<br> Outcome<br> Tracker </button></a>
     <div class="card-body text-center">
       <p class="card-text"> Explore longitudinal trends in DFU rates in departments and courses in your college.
 </p>
@@ -130,14 +159,14 @@ All faculty, staff, and administrators also have access to dashboards via their 
   </div>
   <div class="card mr-5 border-danger">
        <a href="https://counts.csun.edu/t/IR/views/Self_ServiceStudentListDashboard/Home_Page?:origin=card_share_link&:embed=n">
-                    <button class="large-btn img-fluid" id="four"> Self-Service<br> Student List </button></a>
+                    <button class="large-btn img-fluid" id="one"> Self-Service<br> Student List </button></a>
     <div class="card-body text-center">
       <p class="card-text">  Pull a wide array of data about your own students.</p>
     </div>
   </div>
   <div class="card mr-5e border-danger">
        <a href="https://counts.csun.edu/t/IR/views/GradeDistributionDashboard_16391559990940/GradeDistributionDashboard?:origin=card_share_link&:embed=n">
-             <button class="large-btn img-fluid" id="five"> Grade<br> Distribution </button></a>
+             <button class="large-btn img-fluid" id="one"> Grade<br> Distribution </button></a>
     <div class="card-body text-center">
       <p class="card-text">Examine course-, section-, and instructor-level grade data on courses in your college</p>
     </div>
