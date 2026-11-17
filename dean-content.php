@@ -97,7 +97,7 @@
     </div>
   </div>
 
-  <!-- End of Third Row of Buttons -->
+  <!-- End of Third Row of Buttons --> 
   <div class="redh mt-3 mb-4"><h2 class="redh mt-6"><strong>How does enrollment look in your college?</strong></h3></div>
   <div class="card-deck mb-5">
   <div class="card border-danger">
